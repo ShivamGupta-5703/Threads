@@ -39,47 +39,47 @@ A full stack Threads clone using Next.js 14+ with  user interaction to community
 
 👉 1. **Authentication**: Authentication using Clerk for email, password, and social logins (Google and GitHub) with a comprehensive profile management system.
 
-👉 1. **Visually Appealing Home Page**: A visually appealing home page showcasing the latest threads for an engaging user experience.
+👉 2. **Visually Appealing Home Page**: A visually appealing home page showcasing the latest threads for an engaging user experience.
 
-👉 1. **Create Thread Page**: A dedicated page for users to create threads, fostering community engagement
+👉 3. **Create Thread Page**: A dedicated page for users to create threads, fostering community engagement
 
-👉 1. **Commenting Feature**: A commenting feature to facilitate discussions within threads.
+👉 4. **Commenting Feature**: A commenting feature to facilitate discussions within threads.
 
-👉 1. **Nested Commenting**: Commenting system with nested threads, providing a structured conversation flow.
+👉 5. **Nested Commenting**: Commenting system with nested threads, providing a structured conversation flow.
 
-👉 1. **User Search with Pagination**: A user search feature with pagination for easy exploration and discovery of other users.
+👉 6. **User Search with Pagination**: A user search feature with pagination for easy exploration and discovery of other users.
 
-👉 1. **Activity Page**: Display notifications on the activity page when someone comments on a user's thread, enhancing user engagement.
+👉 7. **Activity Page**: Display notifications on the activity page when someone comments on a user's thread, enhancing user engagement.
 
-👉 1. **Profile Page**: User profile pages for showcasing information and enabling modification of profile settings.
+👉 8. **Profile Page**: User profile pages for showcasing information and enabling modification of profile settings.
 
-👉 1. **Create and Invite to Communities**: Allow users to create new communities and invite others using customizable template emails.
+👉 9. **Create and Invite to Communities**: Allow users to create new communities and invite others using customizable template emails.
 
-👉 1. **Community Member Management**: A user-friendly interface to manage community members, allowing role changes and removals.
+👉 10. **Community Member Management**: A user-friendly interface to manage community members, allowing role changes and removals.
 
-👉 1. **Admin-Specific Community Threads**: Enable admins to create threads specifically for their community.
+👉 11. **Admin-Specific Community Threads**: Enable admins to create threads specifically for their community.
 
-👉 1. **Community Search with Pagination**: A community search feature with pagination for exploring different communities.
+👉 12. **Community Search with Pagination**: A community search feature with pagination for exploring different communities.
 
-👉 1. **Community Profiles**: Display community profiles showcasing threads and members for a comprehensive overview.
+👉 13. **Community Profiles**: Display community profiles showcasing threads and members for a comprehensive overview.
 
-👉 1. **Blazing-Fast Performance**: Optimal performance and instantaneous page switching for a seamless user experience.
+👉 14. **Blazing-Fast Performance**: Optimal performance and instantaneous page switching for a seamless user experience.
 
-👉 1. **Server Side Rendering**: Utilize Next.js with Server Side Rendering for enhanced performance and SEO benefits.
+👉 15. **Server Side Rendering**: Utilize Next.js with Server Side Rendering for enhanced performance and SEO benefits.
 
-👉 1. **MongoDB with Complex Schemas**: Handle complex schemas and multiple data populations using MongoDB.
+👉 16. **MongoDB with Complex Schemas**: Handle complex schemas and multiple data populations using MongoDB.
 
-👉 1. **File Uploads with UploadThing**: File uploads using UploadThing for a seamless media sharing experience.
+👉 17. **File Uploads with UploadThing**: File uploads using UploadThing for a seamless media sharing experience.
 
-👉 1. **Real-Time Events Listening**: Real-time events listening with webhooks to keep users updated.
+👉 18. **Real-Time Events Listening**: Real-time events listening with webhooks to keep users updated.
 
-👉 1. **Middleware, API Actions, and Authorization**: Utilize middleware, API actions, and authorization for robust application security.
+👉 19. **Middleware, API Actions, and Authorization**: Utilize middleware, API actions, and authorization for robust application security.
 
-👉 1. **Next.js Layout Route Groups**: New Next.js layout route groups for efficient routing
+👉 20. **Next.js Layout Route Groups**: New Next.js layout route groups for efficient routing
 
-👉 1. **Data Validation with Zod**: Data integrity with data validation using Zod
+👉 21. **Data Validation with Zod**: Data integrity with data validation using Zod
 
-👉 1. **Form Management with React Hook Form**: Efficient management of forms with React Hook Form for a streamlined user input experience.
+👉 22. **Form Management with React Hook Form**: Efficient management of forms with React Hook Form for a streamlined user input experience.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
