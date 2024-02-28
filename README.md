@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/O5cmLDVTgAs?feature=shared" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://drive.google.com/file/d/1jzAdZG7boPFVOKgS6QCje2-MQF_i3hNA/view?usp=sharing" alt="Project Banner">
     </a>
   <br />
